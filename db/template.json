@@ -1,0 +1,18 @@
+{
+    "reading": {
+        "enabled_time" : "yes",
+        "enabled_count" : "yes",
+        "previous_attempts": [
+            {   
+                "2025-12-30": [20, 20]
+            }
+        ],
+        "record_strike": 2,
+        "record_time" : 20,
+        "record_count" : 20,
+        "current_attempt": {
+            "2026-01-01": [5, 4],
+            "2026-01-02": [10, 13]
+        }
+    }
+}
